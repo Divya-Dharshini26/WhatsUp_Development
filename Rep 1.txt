@@ -1,0 +1,11 @@
+Whats Up (App Code)
+
+Created By: Divya
+
+1. Profile page Code.
+
+2. Chat Screen Code.
+
+3. Last Seen Code.
+
+4. Attachments (Video audio images) Code.
